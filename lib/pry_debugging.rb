@@ -1,4 +1,6 @@
 def plus_two(num)
-	num + 2
-	num
+	total = 0
+	total = num + 2
+  total
+#binding.pry
 end
